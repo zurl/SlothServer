@@ -1,0 +1,8 @@
+{
+  "Version" : "v0.0.1",
+  "WeakScriptExecutePath": "WeakScript.exe",
+  "StaticFileType" : [
+      "HTML","HTM","JPG","GIF","JS","PNG","TTF"
+  ]
+
+}
